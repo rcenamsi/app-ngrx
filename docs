@@ -1,0 +1,8 @@
+What is state
+- View State = Information about the view
+- User Information
+- Entity Data = It can be Product Information
+- User Selection and Input = It can be user selection
+
+NgRx = redux + angular
+
